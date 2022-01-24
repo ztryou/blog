@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://ztryou.21cloudbox.com"
 languageCode = "zh-CN"
 title = "萤火虫的博客"
 theme = "maupassant"
